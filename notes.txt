@@ -1,0 +1,3 @@
+#database tables with weather info: tblFIR_Pyrometer_Info, tblWeather_Status/tblWeather_Summary, tblRun_Info->Weather.
+
+
